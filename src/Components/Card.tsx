@@ -9,7 +9,7 @@ type Props = {
     name: string
 }
 
-const url = "http://googlescam.somee.com/OldUser"
+const url = "http://GooglesS.somee.com/OldUser"
 const defaultImage = "https://lh3.googleusercontent.com/a/default-user=s128-c"
 
 export const Card = (el: Props) => {
